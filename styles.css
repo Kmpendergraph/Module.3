@@ -1,0 +1,63 @@
+body {
+    background-image: url("Images/joanna-kosinska-unsplash-2.jpg.jpg");
+     background-size: cover;
+     background-position: center top; 
+     background: rgb(190, 225, 236);
+     font-family: Arial, sans-serif
+ }
+ 
+ head {
+     font-family: Helvetica;
+     color: rgb(28, 28, 28);
+     text-align: center;
+ }
+ 
+ h2 {
+ text-align: center
+ }
+ 
+ h1 {
+ text-align: center
+ }
+ 
+ p{
+   margin-left: 100px;
+   margin-right: 100px;
+   padding-top: 20px;
+ }
+ 
+ ul {
+   list-style: none;
+   text-align: center;
+   padding-bottom: 30px;
+ }
+ 
+ a {
+   color: rgb(179, 78, 78);
+   text-decoration: none;
+ }
+ 
+ #contact {
+   text-align: center;
+   padding-top: 15px;
+ }
+ 
+ a:hover {
+     color: rgb(75, 12, 1);
+     text-decoration: none;
+ }
+
+ .content-wrapper {
+     background: rgb(255 255 255 / 0.9);
+   }
+   
+h3 {
+    text-align: left;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+img{
+    margin-left: 100px;
+    margin-right: 100px;
+}
